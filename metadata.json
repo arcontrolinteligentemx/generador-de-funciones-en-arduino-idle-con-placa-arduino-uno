@@ -1,0 +1,5 @@
+{
+  "name": "Generador AR Arduino Core",
+  "description": "Generador de código Arduino inteligente para máquinas arcade, rocolas y tragamonedas. Especializado en mapeo de teclas y monederos.",
+  "requestFramePermissions": []
+}
